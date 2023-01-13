@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1673576115 source:c:\users\umer\desktop\new folder (3)\sem proj\membership.cpp
+	<iostream>
+	"MemberShip.h"
+
+1673576132 c:\users\umer\desktop\new folder (3)\sem proj\membership.h
+	<iostream>
+	<string>
+
+1673566415 source:c:\users\umer\desktop\new folder (3)\sem proj\customer.cpp
+	<iostream>
+	"cutomer.h"
+
+1673565151 c:\users\umer\desktop\new folder (3)\sem proj\cutomer.h
+	<iostream>
+	<string>
+	"person.h"
+
+1673566397 c:\users\umer\desktop\new folder (3)\sem proj\person.h
+	<iostream>
+	<string>
+
+1673576115 source:c:\users\umer\desktop\new folder (3)\sem proj\main.cpp
+	<iostream>
+	"movie.h"
+	"Ticket.h"
+	"cutomer.h"
+	"time.h"
+	"MemberShip.h"
+
+1673566410 c:\users\umer\desktop\new folder (3)\sem proj\movie.h
+	<iostream>
+	<string>
+	"MemberShip.h"
+	"cutomer.h"
+
+1673577444 c:\users\umer\desktop\new folder (3)\sem proj\ticket.h
+	<iostream>
+	<string>
+	"time.h"
+	"movie.h"
+
+1673574498 c:\users\umer\desktop\new folder (3)\sem proj\time.h
+	<iostream>
+	<string>
+
+1673571416 source:c:\users\umer\desktop\new folder (3)\sem proj\person.cpp
+	<iostream>
+	"person.h"
+
+1673577321 source:c:\users\umer\desktop\new folder (3)\sem proj\movie.cpp
+	<iostream>
+	"movie.h"
+
